@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
 	styleUrls: ['./orders.component.css']
 })
 
-export class AdmninOrdersComponent {
+export class AdminOrdersComponent {
 	
 }

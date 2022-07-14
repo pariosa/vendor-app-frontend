@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
 	styleUrls: ['./edititem.component.css']
 })
 
-export class AdmninEditItemComponent {
+export class AdminEditItemComponent {
 	
 }

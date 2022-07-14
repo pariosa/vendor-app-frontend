@@ -6,6 +6,6 @@ import { Component} from '@angular/core';
 	styleUrls: ['./login.component.css']
 })
 
-export class AdmninLoginComponent {
+export class AdminLoginComponent {
 	
 }
